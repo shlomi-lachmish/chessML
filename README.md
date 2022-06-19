@@ -1,0 +1,1 @@
+The Challenge: Read and understand chess board status from a webcome
